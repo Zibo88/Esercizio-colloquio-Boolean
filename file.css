@@ -1,0 +1,90 @@
+body{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image:url(background.jpg);
+    margin: auto;
+}
+
+.intestazione {
+    width: 1000px;
+    margin: auto;
+    background-color: rgba(128,128,128,0.7);
+    opacity: 0,2;
+    backface-visibility: visible;
+    color:whitesmoke;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin-bottom: 180px;
+    margin-top: 50px;
+}
+
+header {
+    text-align: center;
+    margin: auto;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: greenyellow;
+    padding-top: 50px;
+    
+}
+
+img {
+    width: 140px;
+
+}
+
+.cerca {
+    background-color: rgb(11, 247, 31);
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+section {
+    padding-left: 100px;
+}
+
+.noleggio,h2 {
+    display: inline-block;
+    margin-bottom: 3px;
+    
+    
+}
+
+
+.w3-Gino {
+    height:24px;
+    width:25%;
+    background-color: rgb(255, 238, 0);
+    padding-right: 10%;
+    color: whitesmoke;
+    border-radius: 10px;
+
+    
+}
+ 
+span>p {
+    color: whitesmoke;
+} 
+
+
+.w3-Mike {
+    height:24px;
+    width:25%;
+    background-color: rgb(21, 255, 0);
+    padding-right: 65%;
+    border-radius: 10px;
+    
+
+}
+   
+.w3-Fede {
+    height:24px;
+    width:25%;
+    background-color: rgb(192, 96, 6);
+    padding-right: 2%;
+    color: whitesmoke;
+    border-radius: 10px;
+
+}
+   
